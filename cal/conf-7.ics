@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//XXI FITU 2026//ES
+X-WR-CALNAME:Perspectivas Sonoras: “Del territorio al aula”. La Investigación-Creación como motor de resignificación patrimonial en el ensamble de percusión
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:conf-7@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T162000Z
+DTEND:20261030T164000Z
+SUMMARY:Perspectivas Sonoras: “Del territorio al aula”. La Investigación-Creación como motor de resignificación patrimonial en el ensamble de percusión
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Mg. Wilson Tovar Jaramillo · Institución Universitaria Bellas Artes y Ciencias de Bolívar – UNIBAC\, Colombia
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//XXI FITU 2026//ES
+X-WR-CALNAME:IRUN — Instalación Performativa
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:irun-instalacion-performativa-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261027T210000Z
+DTEND:20261027T213500Z
+SUMMARY:IRUN — Instalación Performativa
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Institución Universitaria Bellas Artes y Ciencias de Bolívar · Cartagena\, Colombia
+END:VEVENT
+END:VCALENDAR

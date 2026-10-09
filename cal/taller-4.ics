@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//XXI FITU 2026//ES
+X-WR-CALNAME:El estudio de la escena: verdad actoral, elementos de verdad y configuración de la circunstancia imaginaria
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:taller-4@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T140000Z
+DTEND:20261029T170000Z
+SUMMARY:El estudio de la escena: verdad actoral\, elementos de verdad y configuración de la circunstancia imaginaria
+LOCATION:Salón U101\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Mg. Wilderman García Buitrago · Universidad de Puerto Rico\, Puerto Rico
+END:VEVENT
+END:VCALENDAR
