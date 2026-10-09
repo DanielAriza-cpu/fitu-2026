@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//XXI FITU 2026//ES
+X-WR-CALNAME:XXI FITU · VI Coloquio 2026
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:irun-instalacion-performativa-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261027T210000Z
+DTEND:20261027T213500Z
+SUMMARY:IRUN — Instalación Performativa
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Institución Universitaria Bellas Artes y Ciencias de Bolívar · Cartagena\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:uriela-y-sus-hermanas-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261027T233000Z
+DTEND:20261028T003000Z
+SUMMARY:Uriela y sus hermanas
+LOCATION:Teatro El Galpón de Bellas Artes\, Sede Bellas Artes\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad de Caldas · Manizales\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:muestra-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T130000Z
+DTEND:20261028T140000Z
+SUMMARY:Muestra Ensamble IV-02
+LOCATION:Salón U101\, Universidad de Caldas\, Manizales
+DESCRIPTION:Muestra de ensamble · Muestra de ensamble antes de la master class
+END:VEVENT
+BEGIN:VEVENT
+UID:muestra-2@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T130000Z
+DTEND:20261028T140000Z
+SUMMARY:Muestra Ensamble I-01 y 02
+LOCATION:Salón Biófilo 2\, Universidad de Caldas\, Manizales
+DESCRIPTION:Muestra de ensamble · Muestra de ensamble antes de la master class
+END:VEVENT
+BEGIN:VEVENT
+UID:muestra-3@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T130000Z
+DTEND:20261028T140000Z
+SUMMARY:Muestra Ensamble IV-01
+LOCATION:Salón Biófilo 3\, Universidad de Caldas\, Manizales
+DESCRIPTION:Muestra de ensamble · Muestra de ensamble antes de la master class
+END:VEVENT
+BEGIN:VEVENT
+UID:taller-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T140000Z
+DTEND:20261028T170000Z
+SUMMARY:Oídos morbosos: laboratorio de las perversiones de la escucha
+LOCATION:Salón U101\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Dra. Lavinia Sabina Sorge Radovani · Universidad de Antioquia – Facultad de Artes – Departamento de Artes Escénicas\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:taller-2@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T140000Z
+DTEND:20261028T170000Z
+SUMMARY:El objeto escénico como mediador pedagógico y didáctico: de la composición escénica a la movilización de contenidos
+LOCATION:Salón Biófilo 2\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Mg. Juan Sebastián Cruz Prieto y Mg. Eliana Paola Varela Barreto · Universidad Pedagógica Nacional\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:taller-3@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T140000Z
+DTEND:20261028T170000Z
+SUMMARY:Cuerpos políticos en acción
+LOCATION:Salón Biófilo 3\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Mg. Liliana Enma Albornoz Muñoz · Universidad Científica del Sur\, Perú
+END:VEVENT
+BEGIN:VEVENT
+UID:la-maldicion-de-la-sangre-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T200000Z
+DTEND:20261028T205000Z
+SUMMARY:La maldición de la sangre
+LOCATION:Teatro El Galpón de Bellas Artes\, Sede Bellas Artes\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad de Caldas · Manizales\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:delirio-a-duo-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T220000Z
+DTEND:20261028T224500Z
+SUMMARY:Delirio a Dúo
+LOCATION:Auditorio CCU Rogelio Salmona\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad Nacional de Cuyo · Mendoza\, Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:cadaveres-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T220000Z
+DTEND:20261028T225000Z
+SUMMARY:Cadáveres
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad El Bosque · Bogotá\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:cadaveres-2@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261028T233000Z
+DTEND:20261029T002000Z
+SUMMARY:Cadáveres
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad El Bosque · Bogotá\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:pachuco-yo-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T003000Z
+DTEND:20261029T021000Z
+SUMMARY:Pachuco Yo
+LOCATION:Salón de Investigación en Artes Performativas (SIAP)\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad del Valle · Cali\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:muestra-4@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T130000Z
+DTEND:20261029T140000Z
+SUMMARY:Muestra Ensamble II-01
+LOCATION:Salón U101\, Universidad de Caldas\, Manizales
+DESCRIPTION:Muestra de ensamble · Muestra de ensamble antes de la master class
+END:VEVENT
+BEGIN:VEVENT
+UID:muestra-5@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T130000Z
+DTEND:20261029T140000Z
+SUMMARY:Muestra Ensamble III-01
+LOCATION:Salón Biófilo 2\, Universidad de Caldas\, Manizales
+DESCRIPTION:Muestra de ensamble · Muestra de ensamble antes de la master class
+END:VEVENT
+BEGIN:VEVENT
+UID:muestra-6@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T130000Z
+DTEND:20261029T140000Z
+SUMMARY:Muestra Ensamble II-02
+LOCATION:Salón Biófilo 3\, Universidad de Caldas\, Manizales
+DESCRIPTION:Muestra de ensamble · Muestra de ensamble antes de la master class
+END:VEVENT
+BEGIN:VEVENT
+UID:taller-4@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T140000Z
+DTEND:20261029T170000Z
+SUMMARY:El estudio de la escena: verdad actoral\, elementos de verdad y configuración de la circunstancia imaginaria
+LOCATION:Salón U101\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Mg. Wilderman García Buitrago · Universidad de Puerto Rico\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:taller-5@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T140000Z
+DTEND:20261029T170000Z
+SUMMARY:Taller sobre DRP (Dinámica de las relaciones proxémicas)
+LOCATION:Salón Biófilo 2\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Mg. Víctor Arrojo · Universidad Nacional de Cuyo\, Mendoza\, Argentina
+END:VEVENT
+BEGIN:VEVENT
+UID:taller-6@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T140000Z
+DTEND:20261029T170000Z
+SUMMARY:Antropología y cuerpo comunicativo
+LOCATION:Salón Biófilo 3\, Universidad de Caldas\, Manizales
+DESCRIPTION:Master class · Mg. Nilson Fernández Galindo · Universidad El Bosque\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:crisalida-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T205000Z
+SUMMARY:Crisálida
+LOCATION:Teatro El Galpón de Bellas Artes\, Sede Bellas Artes\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad de Caldas · Manizales\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:engranajes-del-olvido-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T220000Z
+DTEND:20261029T230000Z
+SUMMARY:Engranajes del Olvido
+LOCATION:Auditorio CCU Rogelio Salmona\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad Pedagógica Nacional · Bogotá\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:quiero-saber-donde-me-encuentro-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T220000Z
+DTEND:20261029T223500Z
+SUMMARY:Quiero saber dónde me encuentro
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Carrera de Artes Escénicas — Universidad Científica del Sur · Lima\, Perú
+END:VEVENT
+BEGIN:VEVENT
+UID:quiero-saber-donde-me-encuentro-2@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261029T233000Z
+DTEND:20261030T000500Z
+SUMMARY:Quiero saber dónde me encuentro
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Carrera de Artes Escénicas — Universidad Científica del Sur · Lima\, Perú
+END:VEVENT
+BEGIN:VEVENT
+UID:matutas-migrantes-marginalias-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T003000Z
+DTEND:20261030T012000Z
+SUMMARY:Matutas\, Migrantes\, Marginálias
+LOCATION:Salón de Investigación en Artes Performativas (SIAP)\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidade Estadual de Campinas (Unicamp) · Campinas (SP)\, Brasil
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-apertura@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T134000Z
+DTEND:20261030T140000Z
+SUMMARY:Apertura VI Coloquio Internacional de Investigación-Creación en Artes Escénicas
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Dr. Sergio Naranjo Velásquez
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T140000Z
+DTEND:20261030T142000Z
+SUMMARY:Bandera de la memoria: resistencia feminista desde el bordado colectivo
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Mg. Liliana Enma Albornoz Muñoz · Universidad Científica del Sur\, Perú
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-2@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T142000Z
+DTEND:20261030T144000Z
+SUMMARY:Procesos de investigación y creación en Matutas\, Migrantes\, Marginálias
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Amanda Paz Ambiel\, Ana Júlia Torres de Oliveira\, Anna Laura Babler Moro y Georgia Maria Gonçalves Ferreira · Unicamp\, Brasil
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-3@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T144000Z
+DTEND:20261030T150000Z
+SUMMARY:La convergencia entre las Artes Escénicas y el Diseño Industrial en IRUN: del objeto diseñado al dispositivo dramatúrgico
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Mg. Brenda Johana Galera Amaranto · Institución Universitaria Bellas Artes y Ciencias de Bolívar – UNIBAC\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-4@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T150000Z
+DTEND:20261030T152000Z
+SUMMARY:Teatro Circular como propuesta curricular pedagógica y didáctica: composición escénica\, diálogo interdisciplinar y territorio
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Mg. Juan Sebastián Cruz Prieto y Mg. Eliana Paola Varela Barreto · Universidad Pedagógica Nacional\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-5@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T154000Z
+DTEND:20261030T160000Z
+SUMMARY:Gestión cultural y redes artísticas internacionales: creación y ejecución de un proyecto escénico y académico transnacional. Estudio de caso de “Solo Poéticas de Realidad”
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Mg. Wilderman García Buitrago · Universidad de Puerto Rico\, Puerto Rico
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-6@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T160000Z
+DTEND:20261030T162000Z
+SUMMARY:Reeducar la escucha: pedagogía sensorial y radioescena en la contemporaneidad
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Dra. Lavinia Sabina Sorge Radovani · Universidad de Antioquia\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:conf-7@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T162000Z
+DTEND:20261030T164000Z
+SUMMARY:Perspectivas Sonoras: “Del territorio al aula”. La Investigación-Creación como motor de resignificación patrimonial en el ensamble de percusión
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Mg. Wilson Tovar Jaramillo · Institución Universitaria Bellas Artes y Ciencias de Bolívar – UNIBAC\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:coloquio-cierre@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T164000Z
+DTEND:20261030T170000Z
+SUMMARY:Cierre VI Coloquio Internacional de Investigación-Creación en Artes Escénicas
+LOCATION:CCU Rogelio Salmona · Cafetería 3er piso\, Centro Cultural Universitario Rogelio Salmona\, Universidad de Caldas\, Manizales
+DESCRIPTION:Coloquio · Conferencia · Dr. Sergio Sierra Monsalve
+END:VEVENT
+BEGIN:VEVENT
+UID:nunca-mas-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T200000Z
+DTEND:20261030T204500Z
+SUMMARY:Nunca Más
+LOCATION:Teatro El Galpón de Bellas Artes\, Sede Bellas Artes\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Carne Viva Teatro · Eje Cafetero\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:historias-perversas-oidos-morbosos-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261030T220000Z
+DTEND:20261030T233000Z
+SUMMARY:Historias Perversas\, Oídos Morbosos
+LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad de Antioquia · Medellín\, Colombia
+END:VEVENT
+BEGIN:VEVENT
+UID:cauces-de-lo-invisible-1@fitu2026
+DTSTAMP:20261009T000000Z
+DTSTART:20261031T003000Z
+DTEND:20261031T010000Z
+SUMMARY:Cauces de lo Invisible
+LOCATION:Salón de Investigación en Artes Performativas (SIAP)\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+DESCRIPTION:Obra · Universidad de Caldas · Manizales\, Colombia
+END:VEVENT
+END:VCALENDAR
