@@ -266,6 +266,7 @@ article .obra-meta dt{color:var(--ink)}
 .foot-title{font-family:var(--f-display);font-style:italic;font-weight:800;font-size:36px;margin:0;color:#F3EBDD}
 .foot-meta p{margin:0;font-size:15px;line-height:1.5}
 .foot a{color:#F3EBDD}
+.foot-org{display:flex;align-items:center;gap:9px;margin:2px 0 0;font-family:var(--f-body,"Archivo"),sans-serif;font-stretch:75%;font-weight:800;font-size:16px;letter-spacing:.14em;text-transform:uppercase;color:#F3EBDD}
 
 [hidden]{display:none!important}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}}

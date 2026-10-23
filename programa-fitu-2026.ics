@@ -5,11 +5,11 @@ X-WR-CALNAME:XXI FITU · VI Coloquio 2026
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:irun-instalacion-performativa-1@fitu2026
-DTSTAMP:20261014T000000Z
-DTSTART:20261027T210000Z
-DTEND:20261027T213500Z
+DTSTAMP:20261023T000000Z
+DTSTART:20261027T203000Z
+DTEND:20261027T210500Z
 SUMMARY:IRUN — Instalación Performativa
-LOCATION:Aula 126\, Sede Bicentenario\, Universidad de Caldas\, Manizales
+LOCATION:Salón de Investigación en Artes Performativas (SIAP)\, Sede Bicentenario\, Universidad de Caldas\, Manizales
 DESCRIPTION:Obra · Institución Universitaria Bellas Artes y Ciencias de B
  olívar · Cartagena\, Colombia
 END:VEVENT
@@ -17,7 +17,7 @@ BEGIN:VEVENT
 UID:uriela-y-sus-hermanas-1@fitu2026
 DTSTAMP:20261014T000000Z
 DTSTART:20261027T233000Z
-DTEND:20261027T243000Z
+DTEND:20261028T003000Z
 SUMMARY:Uriela y sus hermanas
 LOCATION:Teatro El Galpón de Bellas Artes\, Sede Bellas Artes\, Universida
  d de Caldas\, Manizales
